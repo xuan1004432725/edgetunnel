@@ -21,6 +21,9 @@ let go2Socks5s = [
 	'*tapecontent.net',
 	'*cloudatacdn.com',
 	'*.loadshare.org',
+	'*.telegram.org',      // Telegram 主域名
+    	'*.t.me',              // Telegram 短链域名
+    	'*.cdn.telegram.org',  // Telegram CDN 域名
 ];
 let addresses = [];
 let addressesapi = [];
